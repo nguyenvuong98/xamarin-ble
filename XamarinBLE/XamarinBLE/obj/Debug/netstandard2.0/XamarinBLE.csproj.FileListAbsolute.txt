@@ -1,0 +1,14 @@
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\bin\Debug\netstandard2.0\XamarinBLE.deps.json
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\bin\Debug\netstandard2.0\XamarinBLE.dll
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\bin\Debug\netstandard2.0\ref\XamarinBLE.dll
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\bin\Debug\netstandard2.0\XamarinBLE.pdb
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\XamarinBLE.csproj.CoreCompileInputs.cache
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\XamarinBLE.AssemblyInfoInputs.cache
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\XamarinBLE.AssemblyInfo.cs
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\XamarinBLE.dll
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\ref\XamarinBLE.dll
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\XamarinBLE.pdb
+F:\Xaml\XamarinBLE\XamarinBLE\XamarinBLE\obj\Debug\netstandard2.0\XamarinBLE.csprojAssemblyReference.cache

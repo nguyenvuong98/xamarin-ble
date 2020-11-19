@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+s7Upi1R+bVCcnhmKSwJldyke6FhslM2j557Di5pFrIR/SbYu4cjOx/PDGERGIA/XBfmbV1PmwWMAHzjK6j5pQ==",
+  "success": true,
+  "projectFilePath": "F:\\Xaml\\XamarinBLE\\XamarinBLE\\XamarinBLE\\XamarinBLE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguyen vuong\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nguyen vuong\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\nguyen vuong\\.nuget\\packages\\plugin.ble\\2.1.1\\plugin.ble.2.1.1.nupkg.sha512",
+    "C:\\Users\\nguyen vuong\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
